@@ -19,7 +19,7 @@ export default function Contact({ contactRef }) {
         ref={contactRef}
       >
         <GoogleMapReact
-          bootstrapURLKeys={{ key: "AIzaSyAEaHbiW21EMYBaWW79zkV1NZq_cu0TUKQ" }}
+          bootstrapURLKeys={{ key: "" }}
           defaultCenter={defaultProps.center}
           defaultZoom={defaultProps.zoom}
         >
